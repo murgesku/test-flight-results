@@ -39,13 +39,10 @@ class Results(models.Model):
                 "where user_name = %s "
                 "limit 1 "
             ") "
-            "select *, "
-            "case "
-                "when position = (select position from user_position) then 1 "
-                "else 0 "
-            "end as is_user "
+            "select * "
             "from ranked_results "
-            "order by is_user desc, position asc "
+            "where position >= (select position from user_position) "
+            "order by position asc "
             "limit %s",
             [competition, scenario, user_name, num + 1]
         )
