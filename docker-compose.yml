@@ -1,0 +1,42 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    user: "${DOCKER_USER:-0:0}"
+    command: "python manage.py runserver 0.0.0.0:8000"
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/opt/app
+    networks:
+      - default
+    env_file:
+      - .env
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:17-alpine
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+    networks:
+      - default
+    env_file:
+      - .env
+    healthcheck:
+      test: "pg_isready -h postgres"
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  postgres-db-volume:
+
+networks:
+  default:

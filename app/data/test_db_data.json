@@ -1,0 +1,731 @@
+[
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Ясно",
+        "flight_time": 186.00376091532178,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Ясно",
+        "flight_time": 196.59075023918655,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Ясно",
+        "flight_time": 188.7425305502175,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Ясно",
+        "flight_time": 199.13012944191496,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Ясно",
+        "flight_time": 176.5490141346548,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Ясно",
+        "flight_time": 179.74100122652186,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Ясно",
+        "flight_time": 207.29845479909648,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Ясно",
+        "flight_time": 201.5636005871276,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Ясно",
+        "flight_time": 189.09850998813155,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Ночь",
+        "flight_time": 187.89357475000588,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Ночь",
+        "flight_time": 185.78353412460228,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Ночь",
+        "flight_time": 187.955724763574,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Ночь",
+        "flight_time": 201.60450732326223,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Ночь",
+        "flight_time": 191.90895638250555,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_2",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Ночь",
+        "flight_time": 195.66556252524643,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Ночь",
+        "flight_time": 180.9577435128911,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Ночь",
+        "flight_time": 179.58652153773477,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Ночь",
+        "flight_time": 175.39832503688433,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Дождь",
+        "flight_time": 197.61469019836244,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Дождь",
+        "flight_time": 193.341352743064,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Дождь",
+        "flight_time": 193.14253378546272,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Дождь",
+        "flight_time": 198.39197463852366,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Дождь",
+        "flight_time": 192.42869652854972,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Дождь",
+        "flight_time": 199.8820740354227,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Дождь",
+        "flight_time": 199.0846927584176,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_3",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Дождь",
+        "flight_time": 188.595624355683,
+        "false_start": false
+    },
+    {
+        "competition": "Лес",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Дождь",
+        "flight_time": 183.25071428540255,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Ясно",
+        "flight_time": 202.51572883018503,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_0",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Ясно",
+        "flight_time": 181.72735245686732,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Ясно",
+        "flight_time": 180.43395136572636,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Ясно",
+        "flight_time": 198.70946367858267,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Ясно",
+        "flight_time": 190.77264523544395,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Ясно",
+        "flight_time": 187.2286174300248,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Ясно",
+        "flight_time": 204.61536349563218,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Ясно",
+        "flight_time": 199.79581924895797,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Ясно",
+        "flight_time": 188.19633808752386,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_0",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Ночь",
+        "flight_time": 193.10285889080882,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Ночь",
+        "flight_time": 191.14817152976522,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Ночь",
+        "flight_time": 185.01531566660125,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Ночь",
+        "flight_time": 182.3727554151006,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Ночь",
+        "flight_time": 182.07842567170735,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Ночь",
+        "flight_time": 196.85701251515556,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Ночь",
+        "flight_time": 180.26094302963932,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Ночь",
+        "flight_time": 180.9536432329972,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Ночь",
+        "flight_time": 168.23935817604354,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Дождь",
+        "flight_time": 192.84843805174043,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Дождь",
+        "flight_time": 179.48133289091237,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_0",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Дождь",
+        "flight_time": 198.11165770913092,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Дождь",
+        "flight_time": 194.48501156737711,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Дождь",
+        "flight_time": 185.29361582472794,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Дождь",
+        "flight_time": 192.36494744837123,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Дождь",
+        "flight_time": 190.26438540265394,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Дождь",
+        "flight_time": 195.4244141209833,
+        "false_start": false
+    },
+    {
+        "competition": "Застройка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Дождь",
+        "flight_time": 207.96290913761962,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_0",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Ясно",
+        "flight_time": 181.14011474928685,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Ясно",
+        "flight_time": 183.68053961363262,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Ясно",
+        "flight_time": 186.03971183080387,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Ясно",
+        "flight_time": 186.14658392892733,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Ясно",
+        "flight_time": 204.13063595581664,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Ясно",
+        "flight_time": 190.53835566695005,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Ясно",
+        "flight_time": 172.21022666748289,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Ясно",
+        "flight_time": 178.37598699308393,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Ясно",
+        "flight_time": 185.79831809884377,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_0",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Ночь",
+        "flight_time": 191.25992196270073,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Ночь",
+        "flight_time": 189.88164192701853,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Ночь",
+        "flight_time": 195.597428312211,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Ночь",
+        "flight_time": 172.6648658343346,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Ночь",
+        "flight_time": 208.9147505891978,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Ночь",
+        "flight_time": 200.2954161043072,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Ночь",
+        "flight_time": 183.00114165329535,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Ночь",
+        "flight_time": 188.80585232566636,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_3",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Ночь",
+        "flight_time": 193.29887961416074,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Михаил",
+        "scenario": "Дождь",
+        "flight_time": 187.2072689038446,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Василёк",
+        "user_name": "Потап",
+        "scenario": "Дождь",
+        "flight_time": 199.62446118866993,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_3",
+        "command_name": "Василёк",
+        "user_name": "Сергей",
+        "scenario": "Дождь",
+        "flight_time": 199.163943652353,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_3",
+        "command_name": "Ромашка",
+        "user_name": "Иван",
+        "scenario": "Дождь",
+        "flight_time": 187.44864327189865,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Ромашка",
+        "user_name": "Алексей",
+        "scenario": "Дождь",
+        "flight_time": 189.96809596817334,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_0",
+        "command_name": "Ромашка",
+        "user_name": "Дмитрий",
+        "scenario": "Дождь",
+        "flight_time": 193.11886597381877,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_2",
+        "command_name": "Лютик",
+        "user_name": "Яков",
+        "scenario": "Дождь",
+        "flight_time": 186.54321980107167,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_0",
+        "command_name": "Лютик",
+        "user_name": "Станислав",
+        "scenario": "Дождь",
+        "flight_time": 197.1646592518664,
+        "false_start": false
+    },
+    {
+        "competition": "Площадка",
+        "room_id": "room_1",
+        "command_name": "Лютик",
+        "user_name": "Егор",
+        "scenario": "Дождь",
+        "flight_time": 196.03665941273644,
+        "false_start": false
+    }
+]
